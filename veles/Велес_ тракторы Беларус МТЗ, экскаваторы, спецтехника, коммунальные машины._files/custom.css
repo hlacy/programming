@@ -1,0 +1,45 @@
+.bel_prod {margin:0; padding:5px 0; font-size:14px; font-weight:600;}
+.bel_prod_h4 {margin:-4px 0 0 0; padding:0 0 5px; font-size:13px; font-weight:600;}
+.bel_prod_annot {font-size:11px; font-family:Tahoma, Geneva, sans-serif}
+.bel_prod_price {font-size:13px; font-weight:600;}
+.blog-images a {text-decoration:none !important;}
+.filteralert {padding:0 !important;}
+.filteralert table {width:100%}
+.filteralert table td {padding-top:8px}
+.filteralert .form-group {margin-bottom: 8px !important}
+.filteralert select {font-size:12px; font-weight:bold; font-family:Arial, Helvetica, sans-serif; padding-left:3px !important;}
+#attachments div {padding:4px 0;}
+.autocomplete-suggestions {
+  background-color: #ffffff;
+  width: 100px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+  padding: 5px;
+}
+.autocomplete-suggestions .image {
+  margin-right: 5px;
+  width: 40px;
+  background: #FFF;
+}
+.autocomplete-suggestions .image img {
+  max-height: 30px;
+  max-width: 30px;
+}
+.autocomplete-suggestions .autocomplete-suggestion {
+  cursor: default;
+}
+.autocomplete-suggestions .selected {
+  background: #F0F0F0;
+}
+.autocomplete-suggestions div {
+  clear: both;
+  padding: 0;
+  margin: 1px;
+  white-space: nowrap;
+  line-height: 30px;
+  cursor: pointer;
+}
+.autocomplete-suggestions strong {
+  font-weight: 700;
+  color: #009999;
+}

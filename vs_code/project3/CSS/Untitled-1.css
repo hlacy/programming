@@ -1,0 +1,15 @@
+div{
+
+}
+div.xyu{
+    color: aquamarine;
+}
+div.xyu{
+    color: brown;
+}
+.xyu{
+    font-size: 20px;
+    color: red;
+}
+.dot span{color: cornflowerblue;}
+.dot>p{font-size: 20px; color: crimson;}
