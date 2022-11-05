@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd84fc8c-1934-49f5-8bf1-3d23469dd9c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../SQLLessons/lib/h2-2.1.212.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/CourseForTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/CourseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/LinkedPurchaseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/PurchaseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/Subscriptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-exp/src/main/skillbox_progs/_10_hw_4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exam/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../intelliJ_java/src/com/company/trening/trening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaComands.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../JavaComands.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../intelliJ_java/out/production/intelliJ_java/main_progs/CommonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../intelliJ_java/out/production/intelliJ_java/main_progs/CommonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../intelliJ_java/src/com/company/Lesson_Interface/Tel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../intelliJ_java/src/com/company/Lesson_Interface/Tel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../intelliJ_java/src/main_progs/CommonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../intelliJ_java/src/main_progs/CommonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../~$vaComands.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../~$vaComands.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D5Jk3gq3urqnPHIOYORBBKtECx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd84fc8c-1934-49f5-8bf1-3d23469dd9c5" name="Changes" comment="" />
+      <created>1659983153470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659983153470</updated>
+    </task>
+    <servers />
+  </component>
+</project>

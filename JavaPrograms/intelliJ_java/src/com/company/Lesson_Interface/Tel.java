@@ -1,6 +1,6 @@
 package com.company.Lesson_Interface;
 
-public class Tel implements Messenger{
+public abstract class Tel implements Messenger{
 
     @Override
     public void sendMessage() {
