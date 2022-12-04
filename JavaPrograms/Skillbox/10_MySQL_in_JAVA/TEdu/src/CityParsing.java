@@ -50,4 +50,24 @@ public class  CityParsing {
         cityList.sort(Comparator.comparing(City::getDistrict).thenComparing(City::getName));
     }
 
+    //looking for a city with the max population
+
+    public static void searchMaxPopulation(List<City> cityList){
+        City[] cities = cityList.toArray(new City[0]);
+        int index = 0;
+        long max = 0;
+        int i = 0;
+        while (i <= cities.length - 1)
+        {
+            if (max < cities[i].getPopulation())
+            {
+                max = cities[i].getPopulation();
+                index = i;
+            }
+            i++;
+        }
+        System.out.println(String.format("[%d] = %,d",index, max));
+
+    }
+
 }
