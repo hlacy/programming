@@ -13,6 +13,7 @@ public class Main {
 //        List<City> cityList3 = CityParsing.parsingCities();
 //        CityParsing.sortByDistrictAndNameComparator(cityList3);
 //        cityList3.forEach(System.out::println);
-        CityParsing.searchMaxPopulation(cityList);
+//        CityParsing.searchMaxPopulation(cityList);
+        CityParsing.searchCitiesInRegion(cityList);
     }
 }

@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.text.MessageFormat;
 import java.util.*;
 
 public class  CityParsing {
@@ -67,6 +68,15 @@ public class  CityParsing {
             i++;
         }
         System.out.println(String.format("[%d] = %,d",index, max));
+
+    }
+
+    //search for numbers of cities in a region
+    public static void searchCitiesInRegion(List<City> cityList){
+        Map<String, Integer> mapRegions = new HashMap<>();
+
+        cityList.forEach(region -> mapRegions.merge(region.getRegion(), 1, (oldest, newest) -> oldest + 1));
+        mapRegions.forEach((k, v) -> System.out.println(String.format("%s - %,d", k, v)));
 
     }
 
